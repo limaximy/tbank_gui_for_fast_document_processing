@@ -15,7 +15,7 @@
 **Программа представлена здесь, чтобы можно было ознакомиться интересующимся людям для оценки практических навыков разработчика.**
 
 
-# English languare:
+# English language:
 
 A program with a graphical interface for automated processing of LE accounts. Instead of manually changing each line in the document in accordance with the received data, it allows you to fill in only the fields of the program and get a ready-made document in which the accounts, currency, amount of arrest, etc. will be independently determined.
 
