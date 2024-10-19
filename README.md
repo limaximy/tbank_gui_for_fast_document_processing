@@ -6,7 +6,7 @@
 
 ### В данный момент
 
-- не рекомендуется к использованию
+- не рекомендуется к использованию (использование невозможно без шаблонов документа, которые я не предоставил по возможным правилам конфиденциальности),
 
 - не обновляется.
 
@@ -23,7 +23,7 @@ Created for personal use. It was actively used at the time of work, but did not 
 
 ### At the moment
 
-- it is not recommended for use
+- it is not recommended for use (use is not possible without document templates, which I have not provided due to possible privacy rules),
 
 - it's not being updated.
 
